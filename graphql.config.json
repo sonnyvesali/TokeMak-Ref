@@ -1,0 +1,11 @@
+{
+  "name": "Tokemak",
+  "schemaPath": "./schemas/scheme.json",
+  "extensions": {
+    "endpoints": {
+      "Default GraphQL Endpoint": {
+        "url": "./schema.graphql"
+      }
+    }
+  }
+}
